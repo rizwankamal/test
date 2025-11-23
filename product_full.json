@@ -1,0 +1,1792 @@
+{
+  "product": {
+    "title": "Product with multiple options and multiple variants",
+    "body_html": "<p>Premium fleece hoodie with front player graphic.</p>",
+    "vendor": "NIL Club",
+    "product_type": "Hoodie",
+    "status": "active",
+    "tags": [
+      "hoodie",
+      "player",
+      "apparel"
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Navy",
+          "Orange",
+          "Light Pink",
+          "Red",
+          "Purple",
+          "Cardinal",
+          "Maroon",
+          "Kelly Green",
+          "Royal",
+          "White",
+          "Light Blue",
+          "Vegas Gold",
+          "Black",
+          "Crimson",
+          "Powder Blue",
+          "Dark Green",
+          "Dark Grey",
+          "Light Grey"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0996/4480/1288/files/Photoroom_000_20251022_135642.jpg?v=176315001...",
+        "alt": "Black hoodie front"
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0996/4480/1288/files/Photoroom_000_20251022_135642.jpg?v=176315001...",
+        "alt": "White hoodie front"
+      }
+    ],
+    "variants": [
+      {
+        "option1": "S",
+        "option2": "Navy",
+        "sku": "HD-PLAYER-NAVY-S",
+        "title": "S / Navy",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Orange",
+        "sku": "HD-PLAYER-ORANGE-S",
+        "title": "S / Orange",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Light Pink",
+        "sku": "HD-PLAYER-LIGHTPINK-S",
+        "title": "S / Light Pink",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Red",
+        "sku": "HD-PLAYER-RED-S",
+        "title": "S / Red",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Purple",
+        "sku": "HD-PLAYER-PURPLE-S",
+        "title": "S / Purple",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Cardinal",
+        "sku": "HD-PLAYER-CARDINAL-S",
+        "title": "S / Cardinal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Maroon",
+        "sku": "HD-PLAYER-MAROON-S",
+        "title": "S / Maroon",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Kelly Green",
+        "sku": "HD-PLAYER-KELLYGREEN-S",
+        "title": "S / Kelly Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Royal",
+        "sku": "HD-PLAYER-ROYAL-S",
+        "title": "S / Royal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "White",
+        "sku": "HD-PLAYER-WHITE-S",
+        "title": "S / White",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Light Blue",
+        "sku": "HD-PLAYER-LIGHTBLUE-S",
+        "title": "S / Light Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Vegas Gold",
+        "sku": "HD-PLAYER-VEGASGOLD-S",
+        "title": "S / Vegas Gold",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Black",
+        "sku": "HD-PLAYER-BLACK-S",
+        "title": "S / Black",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Crimson",
+        "sku": "HD-PLAYER-CRIMSON-S",
+        "title": "S / Crimson",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Powder Blue",
+        "sku": "HD-PLAYER-POWDERBLUE-S",
+        "title": "S / Powder Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Dark Green",
+        "sku": "HD-PLAYER-DARKGREEN-S",
+        "title": "S / Dark Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Dark Grey",
+        "sku": "HD-PLAYER-DARKGREY-S",
+        "title": "S / Dark Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "S",
+        "option2": "Light Grey",
+        "sku": "HD-PLAYER-LIGHTGREY-S",
+        "title": "S / Light Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.6,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Navy",
+        "sku": "HD-PLAYER-NAVY-M",
+        "title": "M / Navy",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Orange",
+        "sku": "HD-PLAYER-ORANGE-M",
+        "title": "M / Orange",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Light Pink",
+        "sku": "HD-PLAYER-LIGHTPINK-M",
+        "title": "M / Light Pink",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Red",
+        "sku": "HD-PLAYER-RED-M",
+        "title": "M / Red",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Purple",
+        "sku": "HD-PLAYER-PURPLE-M",
+        "title": "M / Purple",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Cardinal",
+        "sku": "HD-PLAYER-CARDINAL-M",
+        "title": "M / Cardinal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Maroon",
+        "sku": "HD-PLAYER-MAROON-M",
+        "title": "M / Maroon",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Kelly Green",
+        "sku": "HD-PLAYER-KELLYGREEN-M",
+        "title": "M / Kelly Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Royal",
+        "sku": "HD-PLAYER-ROYAL-M",
+        "title": "M / Royal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "White",
+        "sku": "HD-PLAYER-WHITE-M",
+        "title": "M / White",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Light Blue",
+        "sku": "HD-PLAYER-LIGHTBLUE-M",
+        "title": "M / Light Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Vegas Gold",
+        "sku": "HD-PLAYER-VEGASGOLD-M",
+        "title": "M / Vegas Gold",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Black",
+        "sku": "HD-PLAYER-BLACK-M",
+        "title": "M / Black",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Crimson",
+        "sku": "HD-PLAYER-CRIMSON-M",
+        "title": "M / Crimson",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Powder Blue",
+        "sku": "HD-PLAYER-POWDERBLUE-M",
+        "title": "M / Powder Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Dark Green",
+        "sku": "HD-PLAYER-DARKGREEN-M",
+        "title": "M / Dark Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Dark Grey",
+        "sku": "HD-PLAYER-DARKGREY-M",
+        "title": "M / Dark Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "M",
+        "option2": "Light Grey",
+        "sku": "HD-PLAYER-LIGHTGREY-M",
+        "title": "M / Light Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.65,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Navy",
+        "sku": "HD-PLAYER-NAVY-L",
+        "title": "L / Navy",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Orange",
+        "sku": "HD-PLAYER-ORANGE-L",
+        "title": "L / Orange",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Light Pink",
+        "sku": "HD-PLAYER-LIGHTPINK-L",
+        "title": "L / Light Pink",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Red",
+        "sku": "HD-PLAYER-RED-L",
+        "title": "L / Red",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Purple",
+        "sku": "HD-PLAYER-PURPLE-L",
+        "title": "L / Purple",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Cardinal",
+        "sku": "HD-PLAYER-CARDINAL-L",
+        "title": "L / Cardinal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Maroon",
+        "sku": "HD-PLAYER-MAROON-L",
+        "title": "L / Maroon",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Kelly Green",
+        "sku": "HD-PLAYER-KELLYGREEN-L",
+        "title": "L / Kelly Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Royal",
+        "sku": "HD-PLAYER-ROYAL-L",
+        "title": "L / Royal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "White",
+        "sku": "HD-PLAYER-WHITE-L",
+        "title": "L / White",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Light Blue",
+        "sku": "HD-PLAYER-LIGHTBLUE-L",
+        "title": "L / Light Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Vegas Gold",
+        "sku": "HD-PLAYER-VEGASGOLD-L",
+        "title": "L / Vegas Gold",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Black",
+        "sku": "HD-PLAYER-BLACK-L",
+        "title": "L / Black",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Crimson",
+        "sku": "HD-PLAYER-CRIMSON-L",
+        "title": "L / Crimson",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Powder Blue",
+        "sku": "HD-PLAYER-POWDERBLUE-L",
+        "title": "L / Powder Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Dark Green",
+        "sku": "HD-PLAYER-DARKGREEN-L",
+        "title": "L / Dark Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Dark Grey",
+        "sku": "HD-PLAYER-DARKGREY-L",
+        "title": "L / Dark Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "L",
+        "option2": "Light Grey",
+        "sku": "HD-PLAYER-LIGHTGREY-L",
+        "title": "L / Light Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.7,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Navy",
+        "sku": "HD-PLAYER-NAVY-XL",
+        "title": "XL / Navy",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Orange",
+        "sku": "HD-PLAYER-ORANGE-XL",
+        "title": "XL / Orange",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Light Pink",
+        "sku": "HD-PLAYER-LIGHTPINK-XL",
+        "title": "XL / Light Pink",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Red",
+        "sku": "HD-PLAYER-RED-XL",
+        "title": "XL / Red",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Purple",
+        "sku": "HD-PLAYER-PURPLE-XL",
+        "title": "XL / Purple",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Cardinal",
+        "sku": "HD-PLAYER-CARDINAL-XL",
+        "title": "XL / Cardinal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Maroon",
+        "sku": "HD-PLAYER-MAROON-XL",
+        "title": "XL / Maroon",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Kelly Green",
+        "sku": "HD-PLAYER-KELLYGREEN-XL",
+        "title": "XL / Kelly Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Royal",
+        "sku": "HD-PLAYER-ROYAL-XL",
+        "title": "XL / Royal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "White",
+        "sku": "HD-PLAYER-WHITE-XL",
+        "title": "XL / White",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Light Blue",
+        "sku": "HD-PLAYER-LIGHTBLUE-XL",
+        "title": "XL / Light Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Vegas Gold",
+        "sku": "HD-PLAYER-VEGASGOLD-XL",
+        "title": "XL / Vegas Gold",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Black",
+        "sku": "HD-PLAYER-BLACK-XL",
+        "title": "XL / Black",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Crimson",
+        "sku": "HD-PLAYER-CRIMSON-XL",
+        "title": "XL / Crimson",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Powder Blue",
+        "sku": "HD-PLAYER-POWDERBLUE-XL",
+        "title": "XL / Powder Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Dark Green",
+        "sku": "HD-PLAYER-DARKGREEN-XL",
+        "title": "XL / Dark Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Dark Grey",
+        "sku": "HD-PLAYER-DARKGREY-XL",
+        "title": "XL / Dark Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "XL",
+        "option2": "Light Grey",
+        "sku": "HD-PLAYER-LIGHTGREY-XL",
+        "title": "XL / Light Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.75,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Navy",
+        "sku": "HD-PLAYER-NAVY-2XL",
+        "title": "2XL / Navy",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Orange",
+        "sku": "HD-PLAYER-ORANGE-2XL",
+        "title": "2XL / Orange",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Light Pink",
+        "sku": "HD-PLAYER-LIGHTPINK-2XL",
+        "title": "2XL / Light Pink",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Red",
+        "sku": "HD-PLAYER-RED-2XL",
+        "title": "2XL / Red",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Purple",
+        "sku": "HD-PLAYER-PURPLE-2XL",
+        "title": "2XL / Purple",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Cardinal",
+        "sku": "HD-PLAYER-CARDINAL-2XL",
+        "title": "2XL / Cardinal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Maroon",
+        "sku": "HD-PLAYER-MAROON-2XL",
+        "title": "2XL / Maroon",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Kelly Green",
+        "sku": "HD-PLAYER-KELLYGREEN-2XL",
+        "title": "2XL / Kelly Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Royal",
+        "sku": "HD-PLAYER-ROYAL-2XL",
+        "title": "2XL / Royal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "White",
+        "sku": "HD-PLAYER-WHITE-2XL",
+        "title": "2XL / White",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Light Blue",
+        "sku": "HD-PLAYER-LIGHTBLUE-2XL",
+        "title": "2XL / Light Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Vegas Gold",
+        "sku": "HD-PLAYER-VEGASGOLD-2XL",
+        "title": "2XL / Vegas Gold",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Black",
+        "sku": "HD-PLAYER-BLACK-2XL",
+        "title": "2XL / Black",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Crimson",
+        "sku": "HD-PLAYER-CRIMSON-2XL",
+        "title": "2XL / Crimson",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Powder Blue",
+        "sku": "HD-PLAYER-POWDERBLUE-2XL",
+        "title": "2XL / Powder Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Dark Green",
+        "sku": "HD-PLAYER-DARKGREEN-2XL",
+        "title": "2XL / Dark Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Dark Grey",
+        "sku": "HD-PLAYER-DARKGREY-2XL",
+        "title": "2XL / Dark Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "2XL",
+        "option2": "Light Grey",
+        "sku": "HD-PLAYER-LIGHTGREY-2XL",
+        "title": "2XL / Light Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.8,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Navy",
+        "sku": "HD-PLAYER-NAVY-3XL",
+        "title": "3XL / Navy",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Orange",
+        "sku": "HD-PLAYER-ORANGE-3XL",
+        "title": "3XL / Orange",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Light Pink",
+        "sku": "HD-PLAYER-LIGHTPINK-3XL",
+        "title": "3XL / Light Pink",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Red",
+        "sku": "HD-PLAYER-RED-3XL",
+        "title": "3XL / Red",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Purple",
+        "sku": "HD-PLAYER-PURPLE-3XL",
+        "title": "3XL / Purple",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Cardinal",
+        "sku": "HD-PLAYER-CARDINAL-3XL",
+        "title": "3XL / Cardinal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Maroon",
+        "sku": "HD-PLAYER-MAROON-3XL",
+        "title": "3XL / Maroon",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Kelly Green",
+        "sku": "HD-PLAYER-KELLYGREEN-3XL",
+        "title": "3XL / Kelly Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Royal",
+        "sku": "HD-PLAYER-ROYAL-3XL",
+        "title": "3XL / Royal",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "White",
+        "sku": "HD-PLAYER-WHITE-3XL",
+        "title": "3XL / White",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Light Blue",
+        "sku": "HD-PLAYER-LIGHTBLUE-3XL",
+        "title": "3XL / Light Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Vegas Gold",
+        "sku": "HD-PLAYER-VEGASGOLD-3XL",
+        "title": "3XL / Vegas Gold",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Black",
+        "sku": "HD-PLAYER-BLACK-3XL",
+        "title": "3XL / Black",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Crimson",
+        "sku": "HD-PLAYER-CRIMSON-3XL",
+        "title": "3XL / Crimson",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Powder Blue",
+        "sku": "HD-PLAYER-POWDERBLUE-3XL",
+        "title": "3XL / Powder Blue",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Dark Green",
+        "sku": "HD-PLAYER-DARKGREEN-3XL",
+        "title": "3XL / Dark Green",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Dark Grey",
+        "sku": "HD-PLAYER-DARKGREY-3XL",
+        "title": "3XL / Dark Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      },
+      {
+        "option1": "3XL",
+        "option2": "Light Grey",
+        "sku": "HD-PLAYER-LIGHTGREY-3XL",
+        "title": "3XL / Light Grey",
+        "price": "59.99",
+        "compare_at_price": "69.99",
+        "taxable": true,
+        "requires_shipping": true,
+        "weight": 0.85,
+        "weight_unit": "kg",
+        "image": {
+          "src": "https://cdn.shopify.com/s/files/1/0675/2449/3544/files/SbMCEVlijkV1ucSpKYWeoda2nPfiIEOeaoREBBTz_3327dac1-4f58-4482-9314-d82d5557e66f.jpg?v=1754406574",
+          "alt": "Simple ceramic mug, front view"
+        }
+      }
+    ]
+  }
+}
